@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3023c62-8f9f-4d96-b7f6-2693c17bd2b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nYAnoyGYU41hVxcIXgTHQiqa0V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Zone24x7\nzv\flutter_navigator_2\lib" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3023c62-8f9f-4d96-b7f6-2693c17bd2b0" name="Default Changelist" comment="" />
+      <created>1611556819719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611556819719</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit of new flutter navigator shell app">
+      <created>1611581828593</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611581828593</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit of new flutter navigator shell app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit of new flutter navigator shell app" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="570" y="92" key="CommitChangelistDialog2" timestamp="1611581825434">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="570" y="92" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1611581825434" />
+    <state width="633" height="466" key="DebuggerActiveHint" timestamp="1611575409181">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="633" height="466" key="DebuggerActiveHint/0.0.1920.1050@0.0.1920.1050" timestamp="1611575409181" />
+    <state width="1860" height="282" key="GridCell.Tab.0.bottom" timestamp="1611580649082">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1611580649082" />
+    <state width="1860" height="282" key="GridCell.Tab.0.center" timestamp="1611580649081">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="282" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1611580649081" />
+    <state width="1860" height="282" key="GridCell.Tab.0.left" timestamp="1611580649081">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="282" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1611580649081" />
+    <state width="1860" height="282" key="GridCell.Tab.0.right" timestamp="1611580649082">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1860" height="282" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1611580649082" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1611581873885">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1611581873885" />
+    <state x="623" y="231" key="search.everywhere.popup" timestamp="1611579026992">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="231" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1611579026992" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://C:/src/flutter_windows_1.22.3-stable/flutter/packages/flutter/lib/src/widgets/framework.dart</url>
+          <line>1430</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/logged_in_Home_body.dart</url>
+          <line>61</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/logged_in_Home_body.dart</url>
+          <line>62</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/logged_in_Home_body.dart</url>
+          <line>63</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

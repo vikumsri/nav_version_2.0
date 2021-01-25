@@ -1,0 +1,4 @@
+#Mon Jan 25 18:47:52 IST 2021
+base.0=D\:\\Zone24x7\\nzv\\flutter_navigator_2\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
