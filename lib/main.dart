@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_navigator_2/bloc/bloc.dart';
-import 'package:flutter_navigator_2/home_screen.dart';
+import 'file:///D:/Zone24x7/nzv/nav_version_2.0/lib/screens/splash_screen.dart';
 import 'package:flutter_navigator_2/navigator.dart';
 import 'injector.dart' as di;
 
@@ -34,7 +34,7 @@ class _NavMainState extends State<NavMain> {
                 name: '/',
                 child: BlocProvider<NavappblocBloc>(
                   create: (_) => di.sl<NavappblocBloc>(),
-                  child: HomeScreen(),
+                  child: SplashScreen(),
                 ),
               ),
             ],

@@ -28,6 +28,21 @@ class SearchScreenLoadedState extends NavAppEmptyState {}
 
 class ProfileScreenLoadedState extends NavAppEmptyState {}
 
+class ReadyContactUs extends NavAppEmptyState {}
+
+class ReadySettings extends NavAppEmptyState {}
+
+class LoggedOut extends NavAppEmptyState {}
+
+class Loading extends NavAppEmptyState {}
+
+class Logging extends NavAppEmptyState {}
+
+class LoggingOut extends NavAppEmptyState {}
+
+
+
+
 
 
 

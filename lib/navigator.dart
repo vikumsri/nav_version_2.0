@@ -44,7 +44,9 @@ class AppNavigatorState extends State<AppNavigator> {
       setState((){
         _stack.clear();
         _stack = stack;
-        BlocProvider.of<NavappblocBloc>(context).add(event);
+        if(event != null){
+          BlocProvider.of<NavappblocBloc>(context).add(event);
+        }
       });
     });
   }
@@ -82,7 +84,6 @@ class AppNavigatorState extends State<AppNavigator> {
 
   @override
   Widget build(BuildContext context) {
-    // print('AppNavigator: $_stack}');
     return Navigator(
       key: widget.navigatorKey,
       onPopPage: _onPopPage,
